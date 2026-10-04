@@ -1,16 +1,19 @@
-## Hi there 👋
+# Привіт, я Андрій! 👋
 
-<!--
-**lohexy/lohexy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент 4-го курсу спеціальності «Інженерія програмного забезпечення» (ІПЗ). Займаюся розробкою ПЗ, досліджую веб-технології, бази даних та архітектурні візерунки.
 
-Here are some ideas to get you started:
+## Технологічний стек
+- **Мови:** C#, Python, SQL.
+- **Фреймворки та платформи:** .NET, Flask, WinForms
+- **Бази даних:** MySQL, SQLite
+- **Інструменти:** Git, GitHub, VS Code, Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Основні напрямки інтересів
+- Розробка на C# / .NET
+- Backend-розробка на Python (Flask)
+- Проєктування та оптимізація баз даних
+
+## Як зі мною зв'язатися
+- **Email:** hlushchuk.a_ipz23@rcit.ukr.education *(або твій особистий email)*
+- **LinkedIn:** [Профіль LinkedIn](https://www.linkedin.com/in/your-profile)
+- **GitHub:** [https://github.com/lohexy](https://github.com/lohexy)
